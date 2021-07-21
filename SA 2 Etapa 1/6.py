@@ -1,0 +1,1 @@
+print(int(input("Informe um total de horas para ser convertido em segundos: ")) * 3600)
